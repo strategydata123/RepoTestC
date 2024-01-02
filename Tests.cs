@@ -5,6 +5,7 @@ using NUnit.Framework;
 using Xamarin.UITest;
 using Xamarin.UITest.Queries; 
 // delete from stage
+// change from local
 namespace HelloDevOps.UITest
 {
     [TestFixture(Platform.Android)]
