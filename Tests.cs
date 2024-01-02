@@ -4,8 +4,7 @@ using System.Linq;
 using NUnit.Framework;
 using Xamarin.UITest;
 using Xamarin.UITest.Queries; 
-// addcommond from stage
-// add change from local
+// delete from stage
 namespace HelloDevOps.UITest
 {
     [TestFixture(Platform.Android)]
